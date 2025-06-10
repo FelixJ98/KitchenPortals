@@ -1,0 +1,1 @@
+C:\Github\KitchenPortals\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5c2a482l\obj\arm64-v8a
